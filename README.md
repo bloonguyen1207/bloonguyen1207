@@ -14,72 +14,70 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi, I'm Bloo Nguyen  
-**Principal / Founding Engineer | Builder of Platforms | Founder of Brewd**
+**Principal Engineer | Builder of Platforms | Founder of Brewd**
 
-I’m a software engineer with 8+ years of experience designing and scaling systems across startups and global companies. I thrive at the intersection of **architecture, data, and product**, turning complex ideas into reliable, user-centered platforms.
-
----
-
-### 💼 What I’m Working On
-
-**🏦 Founding Engineer @ [Profyt AI](https://profyt.ai)**  
-Building automation for financial compliance and governance.  
-
-- Architected and implemented **scalable platform data pipelines** for real-time regulatory monitoring and reporting.  
-- Led product design and technical architecture for the **core GRC automation product**, from data flow to user experience.  
-- Designed systems for **customer-specific compliance controls**, enabling automated scoring and actionable insights.  
-- Collaborate across product, engineering, and compliance teams to deliver **enterprise-grade fintech solutions**.
+I’m a software engineer with 8+ years of experience architecting and building reliable systems across data platforms, IoT, and cloud-native environments.  
+I enjoy turning complex problems into simple, maintainable systems — from real-time data pipelines to user-facing platforms that make an impact.
 
 ---
 
-**☕ Founder @ [Brewd](https://brewd.space)**  
-*Multi-beverage brewing companion for hobbyists and professionals.*  
+### 💡 What I Do
 
-> Empowering brewers with intuitive tools to log, share, and evolve their craft—one drop at a time.
-
-**🌟 Key Features:**  
-- **Recipe Management** – Modular, versioned, and ingredient-based.  
-- **Brew Logs** – Time-stamped, day-by-day tracking of brews.  
-- **Tasting Sessions** – Invite guests, collect feedback, and compare results.  
-- **Multi-Beverage Support** – Coffee, beer, wine, kombucha, and more.  
-- **AI Assistant (Planned)** – Smart brew suggestions and optimization.  
-- **Analytics** – Insights into brewing preferences and performance.  
-
-**Vision:** Become the go-to digital workspace for beverage creators of all levels.
+- **Architect & Scale Systems** — from zero to production-ready, cloud-native environments.  
+- **Design Data Platforms** — real-time ETL pipelines, observability layers, and streaming architectures.  
+- **Automate Compliance & Infrastructure** — enabling reliability, auditability, and resilience.  
+- **Build Intelligent Products** — combining IoT, analytics, and automation into user-centered solutions.  
+- **Lead & Collaborate** — across product, data, and engineering teams to deliver meaningful outcomes.  
 
 ---
 
-### 🚀 Previous Experience
+### 🧪 Projects & Products
 
-**Lead Software Engineer @ [Sinhke](https://sinhke.com)**  
-(GCP, Terraform, Docker, Python, React, YOLO)  
-- Delivered **PoC → MVP → Beta** for AI + IoT shrimp farming platform in 3 months. 
-- Built edge-based **video processing and analytics pipelines**.  
-- Led model development (YOLO11) for shrimp counting, segmentation, and health scoring.  
-- Designed **ETL pipelines** integrating field data, ML inference, and reporting.
+**☕ Brewd — Founder**  
+*A digital brewing companion for hobbyists and professionals.*  
+Enables users to create, log, and perfect recipes while collaborating with others.
 
-**Senior Software Engineer @ [Airthings](https://airthings.com)**  
-(AWS, Terraform, Kotlin, MySQL, Redis, Kafka, React)  
-- Scaled customer dashboards from **1K → 10K+ buildings**.  
-- Migrated integrations to a **microservice architecture**, improving throughput 10x, lower service cost by 75%.  
-- Built on-prem prototypes for **BACnet interoperability**.  
-- Owned system architecture for **API, webhook, and MQTT integrations**.  
+- Modular, versioned recipe management.  
+- Day-by-day brew logs with time-stamped entries.  
+- Tasting sessions and structured feedback.  
+- Multi-beverage support (coffee, beer, wine, kombucha).  
+- Analytics and AI-driven insights (planned).  
 
-**Earlier Work**  
-Hands-on across full-stack systems, IoT, and research prototypes. Built and shipped products from **zero to one**, with a focus on automation, maintainability, and measurable impact.
+> **Vision:** To become the go-to digital workspace for beverage creators across all levels.  
+> **Mission:** Empower brewers with intuitive tools to log, share, and evolve their craft—one drop at a time.
+
+---
+
+### ⚙️ What I’ve Built
+
+- **Scalable data pipelines** for real-time analytics and regulatory monitoring.  
+- **Microservice architectures** with robust event-driven communication (Kafka, Redis).  
+- **IoT & edge AI systems** integrating computer vision and sensor data.  
+- **Internal developer tools** improving productivity, testing, and release automation.  
+- **Frontend experiences** focused on performance and clarity (React, TypeScript).  
+- **Observability and SRE tooling** for monitoring, tracing, and alerting.  
 
 ---
 
 ### 🧰 Tech I Work With
+
 - **Languages:** Kotlin, Python, TypeScript, Bash, SQL  
 - **Infra & Cloud:** AWS, GCP, Terraform, CDK, Docker, Kafka, Redis  
 - **Frontend:** React, Next.js  
-- **Data:** ETL, Streaming, Observability, Model Serving  
-- **Practices:** Architecture, CI/CD, SRE, DevSecOps  
+- **Data & ML:** ETL, Streaming, Model Serving, Observability  
+- **Practices:** Architecture, CI/CD, DevSecOps, System Design  
 
 ---
 
-### 📫 Let’s Connect
+### 🌱 Currently Exploring
+- Automated compliance scoring and monitoring systems.  
+- AI-assisted data transformation and workflow automation.  
+- Brewing analytics and flavor prediction models for Brewd.  
+- Designing a board game 🧮♟️
+
+---
+
+### 📫 Connect With Me
 - **Email:** [bloonguyen1207@gmail.com](mailto:bloonguyen1207@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/bloo-nguyen](https://www.linkedin.com/in/bloo-nguyen/)  
 - **GitHub:** [@bloonguyen1207](https://github.com/bloonguyen1207)
