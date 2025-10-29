@@ -71,11 +71,11 @@ Hands-on across full-stack systems, IoT, and research prototypes. Built and ship
 ---
 
 ### 🧰 Tech I Work With
-**Languages:** Kotlin, Python, TypeScript, Bash, SQL  
-**Infra & Cloud:** AWS, GCP, Terraform, Docker, Kafka, Redis  
-**Frontend:** React, Next.js  
-**Data:** ETL, Streaming, Observability, Model Serving  
-**Practices:** Architecture, CI/CD, SRE, DevSecOps  
+- **Languages:** Kotlin, Python, TypeScript, Bash, SQL  
+- **Infra & Cloud:** AWS, GCP, Terraform, CDK, Docker, Kafka, Redis  
+- **Frontend:** React, Next.js  
+- **Data:** ETL, Streaming, Observability, Model Serving  
+- **Practices:** Architecture, CI/CD, SRE, DevSecOps  
 
 ---
 
