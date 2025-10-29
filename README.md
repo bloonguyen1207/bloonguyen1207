@@ -51,14 +51,14 @@ Building automation for financial compliance and governance.
 
 ### 🚀 Previous Experience
 
-**Lead Software Engineer @ Sinhke**  
+**Lead Software Engineer @ [Sinhke](https://sinhke.com)**  
 (GCP, Terraform, Docker, Python, React, YOLO)  
 - Delivered **PoC → MVP → Beta** for AI + IoT shrimp farming platform in 3 months. 
 - Built edge-based **video processing and analytics pipelines**.  
 - Led model development (YOLO11) for shrimp counting, segmentation, and health scoring.  
 - Designed **ETL pipelines** integrating field data, ML inference, and reporting.
 
-**Senior Software Engineer @ Airthings**  
+**Senior Software Engineer @ [Airthings](https://airthings.com)**  
 (AWS, Terraform, Kotlin, MySQL, Redis, Kafka, React)  
 - Scaled customer dashboards from **1K → 10K+ buildings**.  
 - Migrated integrations to a **microservice architecture**, improving throughput 10x, lower service cost by 75%.  
